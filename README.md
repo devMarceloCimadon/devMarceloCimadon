@@ -6,10 +6,9 @@
 
 ###
 
-<p align="left">
-  - 🎓 Computer Science Student @UniFaj
-  - 🖥️ Passionate about backend development.
-  - 💡 Always searching for new challenges</p>
+- 🎓 Computer Science Student [UniFaj](https://grupounieduk.com.br/unifaj/)
+- 🖥️ Passionate about backend development.
+- 💡 Always searching for new challenges
 
 ###
 
