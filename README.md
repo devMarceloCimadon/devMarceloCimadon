@@ -2,14 +2,14 @@
 
 ###
 
-<h4 align="left">My name is Marcelo Cimadon de Oliveira Junior</h4>
+<h4 align="left">My name is Marcelo Cimadon</h4>
 
 ###
 
-- 🎓 Computer Science Student [UniFaj](https://grupounieduk.com.br/unifaj/)
-- 💻 Dev at [CASP](https://casp.com.br/)
-- 🖥️ Passionate about backend development.
-- 💡 Always searching for new challenges
+- Computer Science Student [UniFaj](https://grupounieduk.com.br/unifaj/)
+- Dev at [CASP](https://casp.com.br/)
+- Passionate about backend development.
+- Always searching for new challenges
 
 ###
 
@@ -42,6 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devMarceloCimadon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMarceloCimadon&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="219" alt="activity-graph graph"  />
 </div>
+
+[//]: # (|Tech Stacks|Frameworks|
+|-----------|----------|
+|||)
 
 ###
 
