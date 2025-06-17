@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -13,12 +13,14 @@
 
 ###
 
-<h2 align="center">Principal Techs</h2>
+<h2 align="left">Principal Techs</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -27,13 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-cimadon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+    <img src="https://deviconapi.vercel.app/linkedin?color=0072B1" height="40" alt="linkedin logo" />
   </a>
 </div>
 
