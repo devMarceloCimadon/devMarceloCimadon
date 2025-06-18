@@ -1,52 +1,22 @@
-<h2 align="left">About me</h2>
-  
-###
-  
-<h4 align="left">My name is Marcelo Cimadon</h4>
-  
-###
-  
-Computer Science Student [UniFaj](https://grupounieduk.com.br/unifaj/) \
-Dev at [CASP](https://casp.com.br/)
-  
-###
-  
-<h2 align="left">Principal techs</h2>
-  
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="40" alt="nextjs logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"/>
-  <img width="12"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
+<div style="display: inline_block"><br>
+  <img align="center" width="30" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="6"/>
+  <img align="center" width="30" alt="typescript logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" /><img width="6"/>
+  <img align="center" width="30" alt="nextjs logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" /><img width="6"/>
+  <img align="center" width="30" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img width="6"/>
+  <img align="center" width="30" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><img width="6"/>
+  <img align="center" width="30" alt="java logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" /><img width="6"/>
+  <img align="center" width="30" alt="spring logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /><img width="6"/>
+  <img align="center" width="30" alt="python logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" /><img width="6"/>
 </div>
   
-###
+#### Follow me on social networks
   
-<h2>Social medias</h2>
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcelo-cimadon/" target="_blank">
-    <img src="https://deviconapi.vercel.app/linkedin?color=0072B1" height="40" alt="linkedin logo" />
+<div style="display: inline_block">
+   <a href="https://github.com/devMarceloCimadon/">
+    <img align="center" width="30" alt="github logo" src="https://deviconapi.vercel.app/github?color=FFFFFF" />
+  </a>
+  <img width="6"/>
+  <a href="https://www.linkedin.com/in/marcelo-cimadon/">
+    <img align="center" width="30" alt="linkedin logo" src="https://deviconapi.vercel.app/linkedin?color=0072B1" />
   </a>
 </div>
-  
-###
-
