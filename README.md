@@ -12,11 +12,11 @@
 #### Follow me on social networks
   
 <div style="display: inline_block">
-   <a href="https://github.com/devMarceloCimadon/">
-    <img align="center" width="30" alt="github logo" src="https://deviconapi.vercel.app/github?color=FFFFFF" />
-  </a>
-  <img width="6"/>
   <a href="https://www.linkedin.com/in/marcelo-cimadon/">
     <img align="center" width="30" alt="linkedin logo" src="https://deviconapi.vercel.app/linkedin?color=0072B1" />
+  </a>
+  <img/>
+  <a href="https://github.com/devMarceloCimadon/">
+    <img align="center" width="30" alt="github logo" src="https://deviconapi.vercel.app/github?color=FFFFFF" />
   </a>
 </div>
