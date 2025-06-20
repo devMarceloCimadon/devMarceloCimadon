@@ -9,7 +9,7 @@
   <img align="center" width="30" alt="python logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" /><img width="6"/>
 </div>
   
-#### Follow me on social networks
+#### Follow me on social networks:
   
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/marcelo-cimadon/">
